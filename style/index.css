@@ -6,6 +6,8 @@
 
 #container{
 	display: flex;
+	transform: rotate(180deg);
+    	flex-flow: row-reverse;
 	margin: 0 auto;
 	width: intrinsic;           
   	width: -moz-max-content;   
